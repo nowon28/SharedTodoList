@@ -13,6 +13,7 @@
 		ADA4440D2356E25E00D9E25C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA4440B2356E25E00D9E25C /* Main.storyboard */; };
 		ADA4440F2356E26200D9E25C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADA4440E2356E26200D9E25C /* Assets.xcassets */; };
 		ADA444122356E26200D9E25C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADA444102356E26200D9E25C /* LaunchScreen.storyboard */; };
+		ADBBC312235AD94C003D737C /* TodoListTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADBBC311235AD94C003D737C /* TodoListTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ADA4440E2356E26200D9E25C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADA444112356E26200D9E25C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ADA444132356E26200D9E25C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ADBBC311235AD94C003D737C /* TodoListTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				ADA444072356E25E00D9E25C /* SceneDelegate.swift */,
 				ADA444092356E25E00D9E25C /* ViewController.swift */,
 				ADA4440B2356E25E00D9E25C /* Main.storyboard */,
+				ADBBC311235AD94C003D737C /* TodoListTableViewCell.swift */,
 				ADA4440E2356E26200D9E25C /* Assets.xcassets */,
 				ADA444102356E26200D9E25C /* LaunchScreen.storyboard */,
 				ADA444132356E26200D9E25C /* Info.plist */,
@@ -141,6 +144,7 @@
 				ADA4440A2356E25E00D9E25C /* ViewController.swift in Sources */,
 				ADA444062356E25E00D9E25C /* AppDelegate.swift in Sources */,
 				ADA444082356E25E00D9E25C /* SceneDelegate.swift in Sources */,
+				ADBBC312235AD94C003D737C /* TodoListTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
